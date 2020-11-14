@@ -1,0 +1,206 @@
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ApiCalendarioTareas.exe
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.csprojAssemblyReference.cache
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.AssemblyInfoInputs.cache
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.AssemblyInfo.cs
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.RazorTargetAssemblyInfo.cache
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\staticwebassets\ApiCalendarioTareas.StaticWebAssets.Manifest.cache
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\staticwebassets\ApiCalendarioTareas.StaticWebAssets.xml
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.csproj.CopyComplete
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ApiCalendarioTareas.deps.json
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ApiCalendarioTareas.runtimeconfig.json
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ApiCalendarioTareas.runtimeconfig.dev.json
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ApiCalendarioTareas.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ApiCalendarioTareas.pdb
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.pdb
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.genruntimeconfig.cache
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.csproj.CoreCompileInputs.cache
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ekronos\Desktop\Calendario Tareas\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ApiCalendarioTareas.exe
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ApiCalendarioTareas.deps.json
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ApiCalendarioTareas.runtimeconfig.json
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ApiCalendarioTareas.runtimeconfig.dev.json
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ApiCalendarioTareas.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ApiCalendarioTareas.pdb
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.AssemblyInfoInputs.cache
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.AssemblyInfo.cs
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.csproj.CoreCompileInputs.cache
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.RazorTargetAssemblyInfo.cache
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.csproj.CopyComplete
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\staticwebassets\ApiCalendarioTareas.StaticWebAssets.Manifest.cache
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\staticwebassets\ApiCalendarioTareas.StaticWebAssets.xml
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.dll
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.pdb
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.genruntimeconfig.cache
+C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\feldi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\feldi\\.nuget\\packages"
+    ]
+  }
+}
