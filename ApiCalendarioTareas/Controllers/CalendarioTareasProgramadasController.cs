@@ -80,8 +80,6 @@ namespace ApiCalendarioTareas.Controllers
         }
 
 
-
-
         [HttpGet]
         [Route("[action]/{idTareaProgramada}")]
         public async Task<CalendarioTareasProgramadasModel> BuscarCalendarioTareaProgramdaByIdTarea(int idTareaProgramada)
