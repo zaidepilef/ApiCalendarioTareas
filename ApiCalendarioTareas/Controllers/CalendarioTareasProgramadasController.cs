@@ -29,8 +29,8 @@ namespace ApiCalendarioTareas.Controllers
             return await _oCalendarioTareasProgramadasService.ListarTareasProgramadas();
         }
 
-        
-        [HttpGet]        
+
+        [HttpGet]
         [Route("[action]")]
         public async Task<IEnumerable<AplicativosModel>> ListarAplicativos()
         {
@@ -71,6 +71,17 @@ namespace ApiCalendarioTareas.Controllers
             return await _oCalendarioTareasProgramadasService.InsertarCalendarioTareaProgramada(oCalendario);
         }
 
+
+        [HttpPost]
+        [Route("[action]")]
+        public async Task<CalendarioTareasProgramadasModel> Editar([FromBody] CalendarioTareasProgramadasModel oCalendario)
+        {
+            return await _oCalendarioTareasProgramadasService.InsertarCalendarioTareaProgramada(oCalendario);
+        }
+
+
+
+
         [HttpGet]
         [Route("[action]/{idTareaProgramada}")]
         public async Task<CalendarioTareasProgramadasModel> BuscarCalendarioTareaProgramdaByIdTarea(int idTareaProgramada)
@@ -83,6 +94,14 @@ namespace ApiCalendarioTareas.Controllers
         public async Task<IEnumerable<TipoPeriodicidadModel>> ListarTipoPeriodicidad()
         {
             return await _oCalendarioTareasProgramadasService.ListarTipoPeriodicidad();
+        }
+
+
+        [HttpDelete]
+        [Route("[action]/{idTareaProgramada}")]
+        public async Task<bool> Eliminar(int idTareaProgramada)
+        {
+            return await _oCalendarioTareasProgramadasService.Eliminar(idTareaProgramada);
         }
 
     }

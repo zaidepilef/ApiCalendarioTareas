@@ -298,7 +298,7 @@ namespace ApiCalendarioTareas.Service
 
             return update;
         }
-        
+
 
         public async Task<bool> EliminarCalendarioTareaProgramadaById(CalendarioTareasProgramadasModel calendariotareaProgamada)
         {
@@ -336,8 +336,13 @@ namespace ApiCalendarioTareas.Service
 
             return delete;
         }
-        
 
+
+        /// <summary>
+        /// ELiminar tarea programada
+        /// </summary>
+        /// <param name="calendariotareaProgamada"></param>
+        /// <returns></returns>
         public async Task<bool> EliminarCalendarioTareaProgramadaByIdTarea(CalendarioTareasProgramadasModel calendariotareaProgamada)
         {
 
@@ -374,8 +379,8 @@ namespace ApiCalendarioTareas.Service
 
             return delete;
         }
-        
-        
+
+
         public async Task<CalendarioTareasProgramadasModel> InsertarCalendarioTareaProgramada(CalendarioTareasProgramadasModel calendarioTareaProgamada)
         {
 
@@ -418,7 +423,7 @@ namespace ApiCalendarioTareas.Service
             calendarioTareaProgamada.message = "OK";
             return calendarioTareaProgamada;
         }
-        
+
 
         public async Task<CalendarioTareasProgramadasModel> BuscarCalendarioTareaProgramdaByIdTarea(int idTareaProgramda)
         {
@@ -443,7 +448,7 @@ namespace ApiCalendarioTareas.Service
                 {
                     retorno.nombreAplicativo = "Cuadratura Diaria";
                     retorno.codPeriodicidadProceso = 1;
-                    retorno.semanas.Add("1"); retorno.semanas.Add("3"); retorno.semanas.Add("5"); //Cambios
+                    retorno.semanas.Add("0");
                     retorno.meses.Add("0");
                     retorno.dias.Add("0");
                     retorno.fechasEspecificas.Add("0");
@@ -456,9 +461,11 @@ namespace ApiCalendarioTareas.Service
                 {
                     retorno.nombreAplicativo = "Cuadratura Semanal";
                     retorno.codPeriodicidadProceso = 2;
-                    retorno.semanas.Add("0"); //Cambios
+                    retorno.semanas.Add("1");
+                    retorno.semanas.Add("3");
+                    retorno.semanas.Add("5"); //Cambios
                     retorno.meses.Add("0");
-                    retorno.dias.Add("5");
+                    retorno.dias.Add("0");
                     retorno.fechasEspecificas.Add("0");
                     retorno.hora = "14:00";
                     retorno.intervalo = 0;
@@ -547,6 +554,43 @@ namespace ApiCalendarioTareas.Service
             return _lstTipoPeriodicidad;
         }
 
+
+        public async Task<bool> Eliminar(int idTareaProgramada)
+        {
+
+            bool delete = false;
+
+            try
+            {
+
+                sqlCon.Open();
+                sqlCom = new SqlCommand("SP_DeleteCalendarioTareaProgramadaByIdTarea", sqlCon);
+                sqlCom.Parameters.AddWithValue("@IdTareaProgramada", idTareaProgramada);
+                sqlCom.Parameters.Add("@Cantidad", SqlDbType.Int).Direction = ParameterDirection.Output;
+                sqlCom.CommandType = CommandType.StoredProcedure;
+
+                await sqlCom.ExecuteNonQueryAsync();
+
+                int cantidad = int.Parse((sqlCom.Parameters["@Cantidad"].Value).ToString());
+
+                if (cantidad == 1)
+                {
+                    delete = true;
+                }
+
+            }
+            catch (Exception ex)
+            {
+                delete = false;
+            }
+            finally
+            {
+                sqlCom.Dispose();
+                sqlCon.Close();
+            }
+
+            return delete;
+        }
         #endregion
 
         #region Mappings
@@ -559,7 +603,7 @@ namespace ApiCalendarioTareas.Service
                 nombre = reader["nombre"].ToString()
             };
         }
-        
+
         private TareasProgramadasModel MappingTareasProgramadas(SqlDataReader reader)
         {
             return new TareasProgramadasModel()
@@ -571,7 +615,7 @@ namespace ApiCalendarioTareas.Service
                 url = reader["url"].ToString()
             };
         }
-        
+
         private CalendarioTareasProgramadasModel MappingCalendarioTareasProgramadas(SqlDataReader reader)
         {
             return new CalendarioTareasProgramadasModel()

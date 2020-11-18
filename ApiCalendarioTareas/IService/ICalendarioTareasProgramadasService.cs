@@ -25,5 +25,7 @@ namespace ApiCalendarioTareas.IService
 
         Task<List<TipoPeriodicidadModel>> ListarTipoPeriodicidad();
 
+        Task<bool> Eliminar(int idTareaProgramada);
+
     }
 }
