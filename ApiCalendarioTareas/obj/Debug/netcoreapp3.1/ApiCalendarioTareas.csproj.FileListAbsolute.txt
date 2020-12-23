@@ -203,4 +203,3 @@ C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\
 C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.dll
 C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.pdb
 C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.genruntimeconfig.cache
-C:\Users\feldi\source\kryptoti\NET_APPS\ApiCalendarioTareas\ApiCalendarioTareas\obj\Debug\netcoreapp3.1\ApiCalendarioTareas.csprojAssemblyReference.cache
