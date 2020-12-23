@@ -648,6 +648,39 @@ namespace ApiCalendarioTareas.Service
         #endregion
 
 
+        #region Usuarios
+
+        public List<UsuariosModel> ListarUsuarios()
+        {
+            List<UsuariosModel> lista = new List<UsuariosModel>();
+            UsuariosModel usuario1 = new UsuariosModel(); UsuariosModel usuario2 = new UsuariosModel(); UsuariosModel usuario3 = new UsuariosModel();
+            UsuariosModel usuario4 = new UsuariosModel(); UsuariosModel usuario5 = new UsuariosModel(); UsuariosModel usuario6 = new UsuariosModel();
+            UsuariosModel usuario7 = new UsuariosModel(); UsuariosModel usuario8 = new UsuariosModel(); UsuariosModel usuario9 = new UsuariosModel();
+            UsuariosModel usuario10 = new UsuariosModel();
+
+            usuario1.codUsuario = "AACHUI"; usuario1.nombreCompleto = "[QA]ALBERTO ACHUI   SOTO";
+            usuario2.codUsuario = "AALLENDE"; usuario2.nombreCompleto = "[QA] ALVARO ALLENDE SEPULVEDA";
+            usuario3.codUsuario = "AALONSO"; usuario3.nombreCompleto = "[QA] ALEJANDRO   ALONSO SILVA";
+            usuario4.codUsuario = "CSAAVED"; usuario4.nombreCompleto = "[QA]CAROLINA SAAVEDRA    CARRASCO";
+            usuario5.codUsuario = "CSAAVEDR"; usuario1.nombreCompleto = "[QA]CAROLINA ANDREA SAAVEDRA CARRASCO";
+            usuario6.codUsuario = "CSALDIAS"; usuario2.nombreCompleto = "[QA]CLAUDIA PATRICIA    SALDIAS SILVA";
+            usuario7.codUsuario = "DAIRUIZ"; usuario3.nombreCompleto = "[QA]DAISY RUIZ    RETAMAL";
+            usuario8.codUsuario = "DAIZQUI"; usuario4.nombreCompleto = "[QA]DAMARYS IZQUIERDO   CHIQUIN";
+            usuario9.codUsuario = "EBATANCO"; usuario1.nombreCompleto = "QA]ERIK BETANCOURT  ALMONACID";
+            usuario10.codUsuario = "EBUIGLEY"; usuario2.nombreCompleto = "[QA]EDUARDO FRANCISCO   BUIGLEY ALY";
+
+
+
+
+            lista.Add(usuario1); lista.Add(usuario2); lista.Add(usuario3); lista.Add(usuario4);
+            lista.Add(usuario5); lista.Add(usuario6); lista.Add(usuario7); lista.Add(usuario8);
+            lista.Add(usuario9); lista.Add(usuario10);
+
+            return lista;
+        }
+
+        #endregion
+
 
     }
 }

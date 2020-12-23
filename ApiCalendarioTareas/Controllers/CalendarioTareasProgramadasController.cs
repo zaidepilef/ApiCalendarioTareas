@@ -51,19 +51,7 @@ namespace ApiCalendarioTareas.Controllers
             return await _oCalendarioTareasProgramadasService.BuscarTareaProgramdaByNombre(nombreAplicativo);
         }
 
-        //[HttpDelete("[action]/{studentId}")]
-        //public async Task<bool> EliminarCalendarioTareaProgramadaById(int studentId)
-        //{
-        //    return await _oCalendarioTareasProgramadasService.Delete(studentId);
-        //}
-
-        // POST api/<StudentsController>
-        //[HttpPost]
-        //public async Task<TareasProgramadasModel> Post([FromBody] Tareas TareasProgramadasModel)
-        //{
-        //    return await _oCalendarioTareasProgramadasService.in(oStudent);
-        //}
-
+       
         [HttpPost]
         public async Task<CalendarioTareasProgramadasModel> Post([FromBody] CalendarioTareasProgramadasModel oCalendario)
         {
@@ -101,6 +89,13 @@ namespace ApiCalendarioTareas.Controllers
         {
             return await _oCalendarioTareasProgramadasService.Eliminar(idTareaProgramada);
         }
+
+        [Route("[action]")]
+        public List<UsuariosModel> ListarUsuarios()
+        {
+            return _oCalendarioTareasProgramadasService.ListarUsuarios();
+        }
+        List<UsuariosModel> ListarUsuarios();
 
     }
 }
