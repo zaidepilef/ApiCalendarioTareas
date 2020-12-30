@@ -9,6 +9,8 @@ namespace ApiCalendarioTareas.IService
     public interface ICalendarioTareasProgramadasService
     {
 
+        List<UsuariosModel> ListarUsuarios();
+
         Task<List<AplicativosModel>> ListarAplicativos();
 
         Task<List<TareasProgramadasModel>> ListarTareasProgramadas();

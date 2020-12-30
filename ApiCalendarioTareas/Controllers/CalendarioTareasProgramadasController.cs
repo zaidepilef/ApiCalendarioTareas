@@ -102,5 +102,11 @@ namespace ApiCalendarioTareas.Controllers
             return await _oCalendarioTareasProgramadasService.Eliminar(idTareaProgramada);
         }
 
+        [Route("[action]")]
+        public List<UsuariosModel> ListarUsuarios()
+        {
+            return _oCalendarioTareasProgramadasService.ListarUsuarios();
+        }
+       
     }
 }

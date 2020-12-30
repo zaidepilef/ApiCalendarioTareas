@@ -648,6 +648,36 @@ namespace ApiCalendarioTareas.Service
         #endregion
 
 
+        public List<UsuariosModel> ListarUsuarios()
+        {
+            List<UsuariosModel> lista = new List<UsuariosModel>();
+            UsuariosModel usuario1 = new UsuariosModel(); UsuariosModel usuario2 = new UsuariosModel(); UsuariosModel usuario3 = new UsuariosModel();
+            UsuariosModel usuario4 = new UsuariosModel(); UsuariosModel usuario5 = new UsuariosModel(); UsuariosModel usuario6 = new UsuariosModel();
+            UsuariosModel usuario7 = new UsuariosModel(); UsuariosModel usuario8 = new UsuariosModel(); UsuariosModel usuario9 = new UsuariosModel();
+            UsuariosModel usuario10 = new UsuariosModel();
+
+            usuario1.codUsuario = "AACHUI"; usuario1.nombreCompleto = "ALBERTO ACHUI   SOTO";
+            usuario2.codUsuario = "AALLENDE"; usuario2.nombreCompleto = "ALVARO ALLENDE SEPULVEDA";
+            usuario3.codUsuario = "AALONSO"; usuario3.nombreCompleto = "ALEJANDRO   ALONSO SILVA";
+            usuario4.codUsuario = "CSAAVED"; usuario4.nombreCompleto = "CAROLINA SAAVEDRA    CARRASCO";
+            usuario5.codUsuario = "CSAAVEDR"; usuario5.nombreCompleto = "CAROLINA ANDREA SAAVEDRA CARRASCO";
+            usuario6.codUsuario = "CSALDIAS"; usuario6.nombreCompleto = "CLAUDIA PATRICIA    SALDIAS SILVA";
+            usuario7.codUsuario = "DAIRUIZ"; usuario7.nombreCompleto = "DAISY RUIZ RETAMAL";
+            usuario8.codUsuario = "DAIZQUI"; usuario8.nombreCompleto = "DAMARYS IZQUIERDO CHIQUIN";
+            usuario9.codUsuario = "EBATANCO"; usuario9.nombreCompleto = "ERIK BETANCOURT ALMONACID";
+            usuario10.codUsuario = "EBUIGLEY"; usuario10.nombreCompleto = "EDUARDO FRANCISCO BUIGLEY ALY";
+
+
+
+
+            lista.Add(usuario1); lista.Add(usuario2); lista.Add(usuario3); lista.Add(usuario4);
+            lista.Add(usuario5); lista.Add(usuario6); lista.Add(usuario7); lista.Add(usuario8);
+            lista.Add(usuario9); lista.Add(usuario10);
+
+            return lista;
+        }
+
+
 
     }
 }
